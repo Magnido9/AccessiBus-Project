@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319846917386",
+    "firebase_url": "https://accessibus-8e296-default-rtdb.firebaseio.com",
+    "project_id": "accessibus-8e296",
+    "storage_bucket": "accessibus-8e296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319846917386:android:9cdf1bcef0aa011faa46f3",
+        "android_client_info": {
+          "package_name": "com.accesibus.accesibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319846917386-nfkncqk11t9do446vivgnos29th807nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3Ba2nHjDsmTARDQ0C-iUUV1163Nki1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319846917386-nfkncqk11t9do446vivgnos29th807nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
